@@ -1,6 +1,6 @@
 # Electric-Vehicle-Population-Analysis
 
-A data-driven end-to-end analysis of Electric Vehicle adoption, performance, and policy alignment across Washington State. This project covers everything from data cleaning and exploration to visualization and presentation — using SQL, Python, and Power BI.
+A data-driven end-to-end analysis of Electric Vehicle adoption, performance, and policy alignment across Washington State. This project covers everything from data cleaning and exploration to visualization and presentation, using SQL, Python, and Power BI.
 
 ## Tools & Technologies
 
