@@ -19,9 +19,31 @@ CREATE TABLE Electric_Vehicle_Population_Data (
 	`Electric Utility` VARCHAR(255),
 	`2020 Census Tract` VARCHAR(255)
 );
+/*
+If you're also lazy like me, when it comes to create table structure, 
+especially when the dataset is too large; then don't worry. Just use Pandas!
+
+I auto-generated this SQL using Pandas, just to avoid writing everything manually.😂
+You can use this method:
+______________________________________________
+import pandas as pd
+
+df = pd.read_csv("file-path", nrows=10)
+
+for col in df.columns:
+    print(f"`{col}` VARCHAR(255),")
+______________________________________________
+Just replace the file-path, with your actual file path, and you're good to go.
+For datatypes, if you know, change it before creating the table itself, else
+just change it later when needed.
+
+But if, you're not lazy, just write it all by yourself, there's nothing wrong either.😅
+
+Well, do whatever you like!
+*/
 
 -- Loading the Data
-LOAD DATA LOCAL INFILE "C:/Users/nibed/Downloads/Electric_Vehicle_Population_Data.csv"
+LOAD DATA LOCAL INFILE "Data.csv" -- I just wrote Data.csv,😁 but you use your actual file path here.
 INTO TABLE Electric_Vehicle_Population_Data
 FIELDS TERMINATED BY ',' 
 OPTIONALLY ENCLOSED BY '"' 
