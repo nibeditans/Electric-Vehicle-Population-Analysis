@@ -26,19 +26,18 @@ A data-driven end-to-end analysis of Electric Vehicle adoption, performance, and
 ## 📁 Project Structure
 
 📦 Electric-Vehicle-Population-Analysis
-
-    ├── 📂 SQL_Scripts
-    │ └── Electric Vehicle Population Analysis.sql
-    ├── 📂 Jupyter_Notebook
-    │ └── Electric Vehicle Population Analysis.ipynb
-    │ └── EV_EDA_Report.html
-    │ └── Electric Vehicle Population Analysis.py
-    ├── 📂 PowerBI_Report
-    │ └── Electric Vehicle Population Analysis.pbix
-    │ └── Electric Vehicle Population Analysis (Static Report).pdf
-    ├── 📂 Presentation
-    │ └── EVA_Presentation.pdf
-    └── README.md
+- SQL_Scripts
+    - Electric Vehicle Population Analysis.sql
+- Jupyter_Notebook
+    - Electric Vehicle Population Analysis.ipynb
+    - EV_EDA_Report.html
+    - Electric Vehicle Population Analysis.py
+- PowerBI_Report
+    - Electric Vehicle Population Analysis.pbix
+    - Electric Vehicle Population Analysis (Static Report).pdf
+- Presentation
+    - EVA_Presentation.pdf
+- README.md
 
 
 ----
