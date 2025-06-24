@@ -54,7 +54,7 @@ The dataset size is too large, so you won't find the it here. Instead, please go
 
 ## 📌 Final Output
 
-- ✅ Cleaned dataset - Pandas and SQL (from 247,344 → 70,277 EV records)
+- ✅ Cleaned dataset - Pandas and SQL (from 247,344 → 97,690 → 70,277 EV records)
 - ✅ Multi-page Power BI report with key visuals
 - ✅ Structured project presentation with insights and recommendations
 
