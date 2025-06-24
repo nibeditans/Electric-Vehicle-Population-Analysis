@@ -61,5 +61,7 @@ Feel free to connect if you'd like to discuss this project or have any feedback!
 - GitHub: [@nibeditans](https://github.com/nibeditans)
 - LinkedIn: [Nibedita Sahu](https://in.linkedin.com/in/ns-nibedita-sahu)
 
+----
+
 ## License
 This project is licensed under the [Apache License 2.0](https://github.com/nibeditans/Electric-Vehicle-Population-Analysis/blob/main/LICENSE). Feel free to use, modify, and distribute it as per the terms of the license.
