@@ -2,6 +2,10 @@
 
 A data-driven end-to-end analysis of Electric Vehicle adoption, performance, and policy alignment. This project covers everything from data cleaning and exploration to visualization and presentation, using SQL, Python, and Power BI.
 
+You can check out the complete article I have written on this this Project: [Electric Vehicle Population Analysis](https://nsdsda.medium.com/electric-vehicle-population-analysis-13608bb3467c)
+
+----
+
 ## Tools & Technologies
 
 - **SQL (MySQL):** Data cleaning, filtering, type conversion, preprocessing  
