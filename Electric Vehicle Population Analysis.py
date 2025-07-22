@@ -96,7 +96,7 @@ df.nunique()
 df.describe().round(2)
 
 
-# <h2><a href="http://localhost:8888/view/All%20Data%20Analytics%20Projects%20right%20here/EV_EDA_Report.html" style="color:green;">Electric Vehicle Population Analysis</a></h2>
+# <h2><a href="https://github.com/nibeditans/Electric-Vehicle-Population-Analysis/blob/main/EV_EDA_Report.html"</a></h2>
 
 # <b style="color:purple;">Checking Duplicates</b>
 
