@@ -47,7 +47,7 @@ You can check out the complete article I have written on this Project: [Electric
 
 ----
 
-## Where can you get the Data from?
+## Where can you get the Dataset from?
 
 Navigate to the Dataset and click on the download button.
 - GitHub Dataset: [Electric_Vehicle_Population_Data.csv](https://github.com/nibeditans/Electric-Vehicle-Population-Analysis/blob/main/Electric_Vehicle_Population_Data.csv)
