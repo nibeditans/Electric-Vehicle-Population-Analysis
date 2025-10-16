@@ -65,6 +65,8 @@ Or you visit my Kaggle page to access the dataset.
 
 ----
 
+Wanna explore more Projects and Fun Programs? Check out the [Data Analytics Projects Collection](https://github.com/nibeditans/A-Few-Data-Analytics-Projects) page.😄
+
 ## Contact
 
 Feel free to connect if you'd like to discuss this project or have any feedback!
