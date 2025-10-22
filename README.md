@@ -10,7 +10,7 @@ Check out the complete article I have written on this Project: [Electric Vehicle
 
 - **SQL (MySQL):** Data cleaning, filtering, type conversion, preprocessing  
 - **Python (Jupyter Notebook):** Pandas, SQLAlchemy, NumPy, Matplotlib, Seaborn
-- **Pandas Profiling / YData EDA:** Automated EDA for in-depth data profiling
+- **Pandas Profiling / YData Profiling:** Automated EDA for in-depth data profiling
 - **Power BI:** Interactive, multi-page report design and visual analysis
 - **Canva:** Presentation Design
 
