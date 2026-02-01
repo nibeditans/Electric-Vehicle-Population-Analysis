@@ -4,7 +4,6 @@ A data-driven end-to-end analysis of Electric Vehicle adoption, performance, and
 
 Check out the complete article I have written on this Project: [Electric Vehicle Population Analysis](https://nsdsda.medium.com/electric-vehicle-population-analysis-13608bb3467c)
 
-----
 
 ## Tools & Technologies
 
@@ -14,7 +13,6 @@ Check out the complete article I have written on this Project: [Electric Vehicle
 - **Power BI:** Interactive, multi-page report design and visual analysis
 - **Canva:** Presentation Design
 
-----
 
 ## Key Analysis Areas
 
@@ -25,7 +23,8 @@ Check out the complete article I have written on this Project: [Electric Vehicle
 - Top-performing models and manufacturers  
 - Business recommendations based on real data patterns
 
-----
+Explore the detailed case study of this project: **[EVPA Case Study](https://github.com/nibeditans/Data-Projects/blob/main/Case%20Studies/Project-Based/EVPA.md)**
+
 
 ## 📁 Project Structure
 
@@ -45,7 +44,6 @@ Check out the complete article I have written on this Project: [Electric Vehicle
     - Electric_Vehicle_Population_Data.csv
 - README.md
 
-----
 
 ## Where can you get the Dataset from?
 
@@ -55,7 +53,6 @@ Navigate to the Dataset and click on the download button.
 Or you visit my Kaggle page to access the dataset.
 - Kaggle Dataset: [Electric Vehicle Population Data](https://www.kaggle.com/datasets/nibeditasahu/electric-vehicle-population-analysis/data?select=Electric_Vehicle_Population_Data.csv)
 
-----
 
 ## Final Output
 
@@ -63,7 +60,6 @@ Or you visit my Kaggle page to access the dataset.
 - ✅ Multi-page Power BI report with key visuals
 - ✅ Structured project presentation with insights and recommendations
 
-----
 
 Wanna explore more Projects and Fun Programs? Check out the [Data Analytics Projects Collection](https://github.com/nibeditans/A-Few-Data-Analytics-Projects) page.😄
 
@@ -74,7 +70,6 @@ Feel free to connect if you'd like to discuss this project or have any feedback!
 - GitHub: [@nibeditans](https://github.com/nibeditans)
 - LinkedIn: [Nibedita Sahu](https://in.linkedin.com/in/ns-nibedita-sahu)
 
-----
 
 ## License
-This project is licensed under the [Apache License 2.0](https://github.com/nibeditans/Electric-Vehicle-Population-Analysis/blob/main/LICENSE). Feel free to use, modify, and distribute it as per the terms of the license.
+This project is licensed under the [Apache License 2.0](LICENSE). Feel free to use, modify, and distribute it as per the terms of the license.
