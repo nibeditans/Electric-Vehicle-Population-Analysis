@@ -2,8 +2,7 @@
 
 A data-driven end-to-end analysis of Electric Vehicle adoption, performance, and policy alignment. This project covers everything from data cleaning and exploration to visualization and presentation, using SQL, Python, and Power BI.
 
-Check out the complete article I have written on this Project: [Electric Vehicle Population Analysis](https://nsdsda.medium.com/electric-vehicle-population-analysis-13608bb3467c)
-
+Check out the complete project walkthrough I have written on this Project: [Electric Vehicle Population Analysis](https://nsdsda.medium.com/electric-vehicle-population-analysis-13608bb3467c)
 
 ## Tools & Technologies
 
@@ -12,7 +11,6 @@ Check out the complete article I have written on this Project: [Electric Vehicle
 - **Pandas Profiling / YData Profiling:** Automated EDA for in-depth data profiling
 - **Power BI:** Interactive, multi-page report design and visual analysis
 - **Canva:** Presentation Design
-
 
 ## Key Analysis Areas
 
@@ -24,7 +22,6 @@ Check out the complete article I have written on this Project: [Electric Vehicle
 - Business recommendations based on real data patterns
 
 Explore the detailed case study of this project: **[EVPA Case Study](https://github.com/nibeditans/Data-Projects/blob/main/Case%20Studies/Project-Based/EVPA.md)**
-
 
 ## 📁 Project Structure
 
@@ -44,7 +41,6 @@ Explore the detailed case study of this project: **[EVPA Case Study](https://git
     - Electric_Vehicle_Population_Data.csv
 - README.md
 
-
 ## Where can you get the Dataset from?
 
 Navigate to the Dataset and click on the download button.
@@ -61,7 +57,7 @@ Or you visit my Kaggle page to access the dataset.
 - ✅ Structured project presentation with insights and recommendations
 
 
-Wanna explore more Projects and Fun Programs? Check out the [Data Analytics Projects Collection](https://github.com/nibeditans/A-Few-Data-Analytics-Projects) page.😄
+Wanna explore more Projects? Check out the [Data Projects Collection](https://github.com/nibeditans/Data-Projects) page.😄
 
 ## Contact
 
@@ -70,6 +66,9 @@ Feel free to connect if you'd like to discuss this project or have any feedback!
 - GitHub: [@nibeditans](https://github.com/nibeditans)
 - LinkedIn: [Nibedita Sahu](https://in.linkedin.com/in/ns-nibedita-sahu)
 
+## License
+
+See the [LICENSE](LICENSE) file for details.
 
 ## License
 This project is licensed under the [Apache License 2.0](LICENSE). Feel free to use, modify, and distribute it as per the terms of the license.
